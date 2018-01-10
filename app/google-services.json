@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "794964140036",
+    "firebase_url": "https://droidwars-727b4.firebaseio.com",
+    "project_id": "droidwars-727b4",
+    "storage_bucket": "droidwars-727b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794964140036:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794964140036-lc10q99o369v3rhaomq1hjnfusvcmehv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKqTy1LuldKIdM1AxpWvL6JFlCXByhz_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794964140036:android:663e229c3aaab566",
+        "android_client_info": {
+          "package_name": "com.example.hp.droidwars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794964140036-lc10q99o369v3rhaomq1hjnfusvcmehv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKqTy1LuldKIdM1AxpWvL6JFlCXByhz_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
